@@ -8,12 +8,13 @@
         padding: 88px 24px 0;
         flex-direction: row;
         flex-wrap: wrap;
+        
     }
 }
 @media screen and (min-width: 1024px) {
     .photo-grid{
         padding: 90px 48px 0;
-        
+        justify-content: space-between;
     }
 }
 @media screen and (min-width: 1280px) {
