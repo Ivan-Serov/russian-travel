@@ -1,0 +1,10 @@
+.lead__image-front{
+    padding: 25px 7px 0px 0px;
+    height: 20vh;
+    width: 95vw;
+    background-size: cover;
+    background-position: center;
+    /*  */
+    object-fit: contain;
+}
+  

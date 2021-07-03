@@ -1,0 +1,17 @@
+.places__paragraph-position{
+    display: flex;
+    flex-direction: column;
+}
+@media screen and (min-width: 768px){
+    .places__paragraph-position{
+        padding: 23px 0px 0px 0px;
+        align-self: flex-start;
+        width: 49%;
+    }
+}
+@media screen and (min-width: 1024px) {
+    .places__paragraph-position{
+        padding: 21px 0px 0px 0px;
+
+    }
+}
