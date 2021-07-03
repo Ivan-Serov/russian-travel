@@ -22,7 +22,7 @@
 }
 @media screen and (min-width: 1024px) {
     .places__card{
-        padding: 20px 48px 0px ;
+        padding: 20px 48px 0px;
     }
     .places__card:nth-child(1n+2){
         padding-top: 84px;
@@ -30,7 +30,7 @@
 }
 @media screen and (min-width: 1280px) {
     .places__card{
-        padding: 20px 48px 0px ;
+        padding: 20px 48px 0px;
     }
     .places__card:nth-child(1n+2){
         padding-top: 78px;
