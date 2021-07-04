@@ -9,7 +9,8 @@
 }
   
 .places__link:hover{
-    color: rgba(255, 255, 255, .8);
+    /* color: rgba(255, 255, 255, .8); */
+    opacity: 0.8;
 }
 @media screen and (min-width: 768px) {
     .places__link{

@@ -13,14 +13,14 @@
 }
 @media screen and (min-width:1024px) {
     .cover{
-        margin-top: 95px;
+        max-width: 1184px;
+        margin: 95px auto 0;
     }
 }
 @media screen and (min-width: 1280px) {
     .cover{
 
-        width: 94%;
-        margin: 95px 3% 0;
         min-height: 740px;
+        width: 1184px;
     }
 }

@@ -1,0 +1,10 @@
+
+.header__lang-link_active{
+    /* text-align: right; */
+    text-decoration-line: underline;
+    /* margin-right: 18px; */
+}
+
+@media screen and (min-width: 768px) {
+    
+}
